@@ -12,7 +12,7 @@ Blur admin is Angular front-end Admin Dashboard template. That means all data yo
 
 ## How can it help me?
 
-We believe that that at the moment a lot of business applications have some kind of admin interface inside of them. Sometimes it's not that obvious, but a lot of web applications have dashboard with panels, charts analytics.
+We believe that at the moment a lot of business applications have some kind of admin interface inside of them. Sometimes it's not that obvious, but a lot of web applications have dashboard with panels, charts analytics.
 
 BlurAdmin aims to bootstrap development of your product and provide ecosystem for building a prototype or even production-ready application.
 
